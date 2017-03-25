@@ -1,0 +1,12 @@
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\obj\Debug\ResolveAssemblyReference.cache
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\obj\Debug\DiscoStation.Form1.resources
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\obj\Debug\DiscoStation.Properties.Resources.resources
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\obj\Debug\DiscoStation.csproj.GenerateResource.Cache
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\bin\Debug\DiscoStation.exe
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\bin\Debug\DiscoStation.pdb
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\bin\Debug\KarmaLegoLib.dll
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\bin\Debug\KarmaLegoLib.pdb
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\obj\Debug\DiscoStation.exe
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\obj\Debug\DiscoStation.pdb
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\bin\Debug\Tonception.dll
+D:\KarmaLegoBook\DiscoApp\DiscoStation\DiscoStation\bin\Debug\Tonception.pdb

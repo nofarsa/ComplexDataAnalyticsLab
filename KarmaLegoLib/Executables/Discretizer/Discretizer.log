@@ -1,0 +1,519 @@
+
+ Discretizer Log File - 06/07/2009
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:40 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : D4C 3
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:40  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:40  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:40  -  - 1, Diabetes, 41392, 0.092, 110.83, 10281, 4.062 +- 6.924
+
+ * 19:40  -  - 2, BetaBlockers, 22657, 0.15, 133.227, 3501, 6.634 +- 11.697
+
+ * 19:40  -  - 3, CCB, 17911, 0.114, 121.498, 1990, 9.052 +- 13.985
+
+ * 19:41  -  - 4, Other, 34062, 0.107, 94.894, 8803, 3.738 +- 6.581
+
+ * 19:41  -  - 5, Statins, 33060, 0.092, 92.922, 6447, 5.022 +- 8.496
+
+ * 19:41  -  - 6, Ace, 27861, 0.061, 111.951, 5323, 4.994 +- 8.293
+
+ * 19:41  -  - 39, HBA1C_FULL, 98690, 0.119, 176.599, 4104, 23.067 +- 22.054
+
+ * 19:41  -  - 40, LDL_FULL, 93020, 0.213, 215.112, 3994, 22.32 +- 18.97
+
+ * 19:41  -  - 41, Cholesterol_FULL, 121579, 0.365, 265.659, 6366, 18.148 +- 19.886
+
+ * 19:41  -  - 42, Glucose_FULL, 123312, 0.241, 309.42, 4583, 25.957 +- 24.517
+
+ * 19:41  -  - 43, Albumin_FULL, 98147, 0.271, 227.137, 4241, 22.183 +- 20.775
+
+ * 19:41  -  - 44, Creatinine_FULL, 121438, 0.876, 319.664, 4510, 25.967 +- 23.92
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderD4C3TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderD4C3TendencyUseClassNoCluster
+        Total run time : 00:01:00.4062500
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:41 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : D4C 5
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:41  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:41  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:41  -  - 1, Diabetes, 41392, 0.126, 149.301, 11663, 3.534 +- 6.257
+
+ * 19:41  -  - 2, BetaBlockers, 22657, 0.15, 133.227, 3501, 6.634 +- 11.697
+
+ * 19:42  -  - 3, CCB, 17911, 0.114, 121.498, 1990, 9.052 +- 13.985
+
+ * 19:42  -  - 4, Other, 34062, 0.162, 98.229, 10992, 2.917 +- 5.182
+
+ * 19:42  -  - 5, Statins, 33060, 0.124, 140.382, 8301, 3.769 +- 6.315
+
+ * 19:42  -  - 6, Ace, 27861, 0.092, 131.883, 5609, 4.723 +- 7.924
+
+ * 19:42  -  - 39, HBA1C_FULL, 98690, 0.127, 172.1, 5223, 17.922 +- 19.686
+
+ * 19:42  -  - 40, LDL_FULL, 93020, 0.287, 219.12, 5707, 15.343 +- 16.009
+
+ * 19:42  -  - 41, Cholesterol_FULL, 121579, 0.514, 262.58, 7126, 16.117 +- 19.079
+
+ * 19:42  -  - 42, Glucose_FULL, 123312, 0.285, 298.397, 6899, 16.942 +- 20.117
+
+ * 19:43  -  - 43, Albumin_FULL, 98147, 0.325, 241.196, 5146, 18.122 +- 18.599
+
+ * 19:43  -  - 44, Creatinine_FULL, 121438, 1.183, 297.511, 7440, 15.383 +- 17.981
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderD4C5TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderD4C5TendencyUseClassNoCluster
+        Total run time : 00:01:18.7968750
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:43 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : EQW 3
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:43  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:43  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:43  -  - 1, Diabetes, 41392, 0.003, 107.671, 6459, 6.803 +- 10.717
+
+ * 19:43  -  - 2, BetaBlockers, 22657, 0.003, 84.445, 2193, 10.951 +- 15.341
+
+ * 19:43  -  - 3, CCB, 17911, 0.006, 53.024, 1818, 9.993 +- 14.149
+
+ * 19:43  -  - 4, Other, 34062, 0.027, 92.673, 3988, 8.871 +- 13.573
+
+ * 19:43  -  - 5, Statins, 33060, 0.022, 107.647, 3274, 10.505 +- 14.395
+
+ * 19:43  -  - 6, Ace, 27861, 0.019, 95.948, 2969, 9.472 +- 13.7
+
+ * 19:43  -  - 39, HBA1C_FULL, 98690, 0.002, 284.875, 1715, 56.547 +- 12.509
+
+ * 19:43  -  - 40, LDL_FULL, 93020, 0.057, 194.831, 4961, 17.777 +- 15.768
+
+ * 19:43  -  - 41, Cholesterol_FULL, 121579, 0.205, 202.95, 4783, 24.454 +- 22.582
+
+ * 19:43  -  - 42, Glucose_FULL, 123312, 0.01, 200.093, 2086, 58.128 +- 12.883
+
+ * 19:43  -  - 43, Albumin_FULL, 98147, 0.158, 181.372, 3479, 27.253 +- 22.421
+
+ * 19:43  -  - 44, Creatinine_FULL, 121438, 0.007, 253.665, 2059, 57.985 +- 11.766
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderEQW3TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderEQW3TendencyUseClassNoCluster
+        Total run time : 00:00:47.4218750
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:44 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : EQW 5
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:44  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:44  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:44  -  - 1, Diabetes, 41392, 0.014, 92.537, 9435, 4.476 +- 7.721
+
+ * 19:44  -  - 2, BetaBlockers, 22657, 0.009, 72.863, 2775, 8.54 +- 12.909
+
+ * 19:44  -  - 3, CCB, 17911, 0.054, 55.008, 3640, 4.681 +- 7.925
+
+ * 19:44  -  - 4, Other, 34062, 0.009, 73.985, 6030, 5.695 +- 9.791
+
+ * 19:44  -  - 5, Statins, 33060, 0.082, 82.409, 4013, 8.471 +- 12.533
+
+ * 19:44  -  - 6, Ace, 27861, 0.029, 76.189, 4718, 5.744 +- 9.569
+
+ * 19:44  -  - 39, HBA1C_FULL, 98690, 0.003, 265.841, 1715, 56.547 +- 12.509
+
+ * 19:44  -  - 40, LDL_FULL, 93020, 0.07, 172.425, 5299, 16.587 +- 15.497
+
+ * 19:44  -  - 41, Cholesterol_FULL, 121579, 0.068, 206.229, 6193, 18.678 +- 19.253
+
+ * 19:44  -  - 42, Glucose_FULL, 123312, 0.035, 146.141, 2660, 45.404 +- 24.221
+
+ * 19:44  -  - 43, Albumin_FULL, 98147, 0.022, 186.589, 4920, 19.01 +- 18.462
+
+ * 19:44  -  - 44, Creatinine_FULL, 121438, 0.024, 195.836, 2115, 56.437 +- 14.636
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderEQW5TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderEQW5TendencyUseClassNoCluster
+        Total run time : 00:00:58.8437500
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:45 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : EQF 3
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:45  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:45  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:45  -  - 1, Diabetes, 41392, 0.014, 170.735, 12913, 3.11 +- 5.114
+
+ * 19:45  -  - 2, BetaBlockers, 22657, 0.003, 113.543, 4862, 4.589 +- 8.104
+
+ * 19:45  -  - 3, CCB, 17911, 0.086, 118.529, 3647, 4.63 +- 7.665
+
+ * 19:45  -  - 4, Other, 34062, 0.005, 161.385, 9596, 3.347 +- 5.642
+
+ * 19:45  -  - 5, Statins, 33060, 0.014, 146.385, 7153, 4.465 +- 7.376
+
+ * 19:45  -  - 6, Ace, 27861, 0.003, 132.704, 6202, 4.156 +- 7.138
+
+ * 19:45  -  - 39, HBA1C_FULL, 98690, 0.005, 238.352, 6236, 14.844 +- 15.262
+
+ * 19:45  -  - 40, LDL_FULL, 93020, 0.003, 208.859, 6759, 12.797 +- 12.505
+
+ * 19:45  -  - 41, Cholesterol_FULL, 121579, 0.004, 245.743, 8571, 13.232 +- 14.477
+
+ * 19:45  -  - 42, Glucose_FULL, 123312, 0.004, 252.778, 9537, 12.014 +- 14.786
+
+ * 19:45  -  - 43, Albumin_FULL, 98147, 0.055, 229.33, 5569, 16.68 +- 16.929
+
+ * 19:45  -  - 44, Creatinine_FULL, 121438, 0.099, 259.599, 6674, 17.248 +- 18.173
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderEQF3TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderEQF3TendencyUseClassNoCluster
+        Total run time : 00:00:57.5468750
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:46 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : EQF 5
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:46  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:46  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:46  -  - 1, Diabetes, 41392, 0.037, 183.611, 15060, 2.617 +- 4.205
+
+ * 19:46  -  - 2, BetaBlockers, 22657, 0.028, 131.568, 5508, 3.994 +- 6.861
+
+ * 19:46  -  - 3, CCB, 17911, 0.095, 122.99, 4055, 4.145 +- 7.073
+
+ * 19:46  -  - 4, Other, 34062, 0.007, 165.404, 13608, 2.251 +- 3.685
+
+ * 19:46  -  - 5, Statins, 33060, 0.033, 163.983, 8297, 3.75 +- 6.067
+
+ * 19:46  -  - 6, Ace, 27861, 0.011, 135.145, 7994, 3.108 +- 5.137
+
+ * 19:46  -  - 39, HBA1C_FULL, 98690, 0.005, 220.39, 8357, 10.835 +- 11.74
+
+ * 19:46  -  - 40, LDL_FULL, 93020, 0.001, 199.018, 8623, 9.829 +- 9.92
+
+ * 19:46  -  - 41, Cholesterol_FULL, 121579, 0.006, 230.569, 11320, 9.798 +- 10.98
+
+ * 19:46  -  - 42, Glucose_FULL, 123312, 0.003, 239.553, 12841, 8.7 +- 11.053
+
+ * 19:47  -  - 43, Albumin_FULL, 98147, 0.037, 214.883, 7160, 12.779 +- 14
+
+ * 19:47  -  - 44, Creatinine_FULL, 121438, 0.029, 235.994, 9530, 11.81 +- 13.392
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderEQF5TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderEQF5TendencyUseClassNoCluster
+        Total run time : 00:01:13.1718750
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:47 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : SAX 3
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:47  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:47  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:47  -  - 1, Diabetes, 41392, 0.028, 105.513, 13801, 2.886 +- 4.649
+
+ * 19:47  -  - 2, BetaBlockers, 22657, 0.002, 87.255, 4818, 4.633 +- 8.118
+
+ * 19:47  -  - 3, CCB, 17911, 0.002, 107.831, 3883, 4.321 +- 7.076
+
+ * 19:47  -  - 4, Other, 34062, 0.005, 157.79, 10308, 3.097 +- 5.269
+
+ * 19:47  -  - 5, Statins, 33060, 0.029, 94.628, 7899, 3.967 +- 6.444
+
+ * 19:47  -  - 6, Ace, 27861, 0.01, 108.689, 6702, 3.815 +- 6.539
+
+ * 19:47  -  - 39, HBA1C_FULL, 98690, 0.001, 204.793, 4285, 22.052 +- 20.618
+
+ * 19:47  -  - 40, LDL_FULL, 93020, 0.012, 207.95, 6708, 12.902 +- 12.595
+
+ * 19:47  -  - 41, Cholesterol_FULL, 121579, 0.03, 243.734, 8527, 13.307 +- 14.44
+
+ * 19:48  -  - 42, Glucose_FULL, 123312, 0.05, 236.057, 9367, 12.25 +- 14.97
+
+ * 19:48  -  - 43, Albumin_FULL, 98147, 0.005, 216.822, 5616, 16.533 +- 16.595
+
+ * 19:48  -  - 44, Creatinine_FULL, 121438, 0.011, 235.951, 6189, 18.673 +- 18.857
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderSAX3TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderSAX3TendencyUseClassNoCluster
+        Total run time : 00:00:58.1718750
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:48 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : SAX 5
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:48  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:48  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:48  -  - 1, Diabetes, 41392, 0.073, 124.707, 15221, 2.583 +- 4.137
+
+ * 19:48  -  - 2, BetaBlockers, 22657, 0.078, 109.956, 5212, 4.256 +- 7.595
+
+ * 19:48  -  - 3, CCB, 17911, 0.102, 90.476, 4046, 4.128 +- 6.789
+
+ * 19:48  -  - 4, Other, 34062, 0.012, 91.492, 11699, 2.701 +- 4.632
+
+ * 19:48  -  - 5, Statins, 33060, 0.02, 112.005, 8610, 3.604 +- 5.867
+
+ * 19:48  -  - 6, Ace, 27861, 0.008, 99.492, 7973, 3.117 +- 5.169
+
+ * 19:48  -  - 39, HBA1C_FULL, 98690, 0.097, 197.457, 6273, 14.755 +- 14.986
+
+ * 19:48  -  - 40, LDL_FULL, 93020, 0.006, 198.103, 8588, 9.873 +- 9.963
+
+ * 19:49  -  - 41, Cholesterol_FULL, 121579, 0.017, 228.676, 11352, 9.768 +- 10.787
+
+ * 19:49  -  - 42, Glucose_FULL, 123312, 0.015, 232.718, 12339, 9.097 +- 11.302
+
+ * 19:49  -  - 43, Albumin_FULL, 98147, 0.037, 208.335, 7098, 12.9 +- 14.205
+
+ * 19:49  -  - 44, Creatinine_FULL, 121438, 0.139, 214.672, 8479, 13.393 +- 14.294
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderSAX5TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderSAX5TendencyUseClassNoCluster
+        Total run time : 00:01:08.3906250
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:49 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : Persist 3
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:49  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:49  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:49  -  - 1, Diabetes, 41392, 0.044, 179.445, 9488, 4.431 +- 7.566
+
+ * 19:49  -  - 2, BetaBlockers, 22657, 0.05, 132.276, 3405, 6.83 +- 11.504
+
+ * 19:49  -  - 3, CCB, 17911, 0.11, 115.197, 1944, 9.278 +- 14.203
+
+ * 19:49  -  - 4, Other, 34062, 0.015, 168.449, 4940, 7.053 +- 12.247
+
+ * 19:49  -  - 5, Statins, 33060, 0.008, 125.211, 5229, 6.306 +- 10.339
+
+ * 19:49  -  - 6, Ace, 27861, 0.036, 138.555, 3707, 7.44 +- 12.496
+
+ * 19:49  -  - 39, HBA1C_FULL, 98690, 0.053, 302.112, 2561, 37.545 +- 24.589
+
+ * 19:49  -  - 40, LDL_FULL, 93020, 0.057, 160.752, 3480, 25.753 +- 19.29
+
+ * 19:50  -  - 41, Cholesterol_FULL, 121579, 0.03, 183.331, 4112, 28.605 +- 24.344
+
+ * 19:50  -  - 42, Glucose_FULL, 123312, 0.193, 313.908, 3769, 31.759 +- 25.789
+
+ * 19:50  -  - 43, Albumin_FULL, 98147, 0.09, 161.94, 3391, 27.995 +- 22.979
+
+ * 19:50  -  - 44, Creatinine_FULL, 121438, 0.111, 183.616, 3606, 32.734 +- 25.406
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderPersist3TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderPersist3TendencyUseClassNoCluster
+        Total run time : 00:00:58.1093750
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:50 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : Persist 5
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:50  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:50  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:50  -  - 1, Diabetes, 41392, 0.038, 186.926, 11342, 3.627 +- 6.265
+
+ * 19:50  -  - 2, BetaBlockers, 22657, 0.11, 134.082, 4523, 4.991 +- 8.755
+
+ * 19:50  -  - 3, CCB, 17911, 0.121, 122.16, 1998, 9.014 +- 13.961
+
+ * 19:50  -  - 4, Other, 34062, 0.015, 168.449, 4940, 7.053 +- 12.247
+
+ * 19:50  -  - 5, Statins, 33060, 0.008, 125.192, 5278, 6.242 +- 10.276
+
+ * 19:50  -  - 6, Ace, 27861, 0.06, 146.224, 4337, 6.271 +- 11.081
+
+ * 19:50  -  - 39, HBA1C_FULL, 98690, 0.05, 206.466, 3774, 25.171 +- 22.935
+
+ * 19:51  -  - 40, LDL_FULL, 93020, 0.119, 167.66, 4807, 18.381 +- 17.214
+
+ * 19:51  -  - 41, Cholesterol_FULL, 121579, 0.139, 192.425, 6073, 19.067 +- 20.5
+
+ * 19:51  -  - 42, Glucose_FULL, 123312, 0.324, 305.271, 5519, 21.404 +- 22.939
+
+ * 19:51  -  - 43, Albumin_FULL, 98147, 0.025, 180.37, 4628, 20.28 +- 20.359
+
+ * 19:51  -  - 44, Creatinine_FULL, 121438, 0.713, 199.486, 5335, 21.826 +- 22.653
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderPersist5TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderPersist5TendencyUseClassNoCluster
+        Total run time : 00:01:08.5781250
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:51 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : D4C2 3
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:51  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:51  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:51  -  - 1, Diabetes, 41392, 0.044, 179.445, 9488, 4.431 +- 7.566
+
+ * 19:51  -  - 2, BetaBlockers, 22657, 0.149, 134.541, 3502, 6.631 +- 11.676
+
+ * 19:51  -  - 3, CCB, 17911, 0.151, 83.583, 3704, 4.561 +- 7.593
+
+ * 19:51  -  - 4, Other, 34062, 0.086, 88.062, 10432, 3.078 +- 5.355
+
+ * 19:51  -  - 5, Statins, 33060, 0.089, 138.655, 7736, 4.068 +- 6.681
+
+ * 19:51  -  - 6, Ace, 27861, 0.028, 138.411, 2744, 10.274 +- 14.994
+
+ * 19:52  -  - 39, HBA1C_FULL, 98690, 0.099, 287.386, 3839, 24.72 +- 22.335
+
+ * 19:52  -  - 40, LDL_FULL, 93020, 0.177, 221.548, 5030, 17.529 +- 16.733
+
+ * 19:52  -  - 41, Cholesterol_FULL, 121579, 0.21, 266.675, 6280, 18.403 +- 19.632
+
+ * 19:52  -  - 42, Glucose_FULL, 123312, 0.032, 277.868, 7782, 14.918 +- 18.062
+
+ * 19:52  -  - 43, Albumin_FULL, 98147, 0.04, 236.056, 4203, 22.394 +- 19.854
+
+ * 19:52  -  - 44, Creatinine_FULL, 121438, 0.078, 270.33, 5722, 20.275 +- 20.882
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderD4C23TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderD4C23TendencyUseClassNoCluster
+        Total run time : 00:01:01.6093750
+-----------------------------------------------------------------------------------
+06/07/2009 - 19:52 - Run By : BGU-USERS\ezrag
+    # Program Parameters : 
+        Method : D4C2 5
+        Database : DiabetesEval on DT307B by user ezrag
+        Tables : 
+            Entities : Entities
+            Properties : TemporalPropertiesFA
+            Values : TemporalPropertiesValuesFAGender
+        Options : UseClass, UseTendency, NoTimeRegardless, NoFlatIntervals
+    # Results : 
+ * 19:52  -  Properties statistics :  Points, Entropy , Error1 | Intervals, Mean Duration, STD of Durations
+
+ * 19:52  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ * 19:52  -  - 1, Diabetes, 41392, 0.044, 179.445, 9488, 4.431 +- 7.566
+
+ * 19:52  -  - 2, BetaBlockers, 22657, 0.149, 134.541, 3502, 6.631 +- 11.676
+
+ * 19:52  -  - 3, CCB, 17911, 0.151, 83.583, 3704, 4.561 +- 7.593
+
+ * 19:52  -  - 4, Other, 34062, 0.099, 105.699, 11474, 2.775 +- 4.863
+
+ * 19:53  -  - 5, Statins, 33060, 0.117, 140.282, 8280, 3.778 +- 6.321
+
+ * 19:53  -  - 6, Ace, 27861, 0.051, 115.64, 4003, 6.853 +- 11.001
+
+ * 19:53  -  - 39, HBA1C_FULL, 98690, 0.149, 289.949, 4328, 21.82 +- 21.968
+
+ * 19:53  -  - 40, LDL_FULL, 93020, 0.275, 217.376, 5722, 15.3 +- 15.979
+
+ * 19:53  -  - 41, Cholesterol_FULL, 121579, 0.169, 262.676, 8126, 14.017 +- 16.518
+
+ * 19:53  -  - 42, Glucose_FULL, 123312, 0.044, 251.916, 11453, 9.862 +- 13.467
+
+ * 19:53  -  - 43, Albumin_FULL, 98147, 0.025, 246.685, 5062, 18.442 +- 18.179
+
+ * 19:53  -  - 44, Creatinine_FULL, 121438, 0.108, 277.477, 7058, 16.265 +- 18.708
+
+        Created on same database : 
+        Bins Definitions Table : BinsDefinitionsFAGenderD4C25TendencyUseClassNoCluster
+        Intervals Table : TemporalPropertiesIntervalsFAGenderD4C25TendencyUseClassNoCluster
+        Total run time : 00:01:19.9687500
+-----------------------------------------------------------------------------------

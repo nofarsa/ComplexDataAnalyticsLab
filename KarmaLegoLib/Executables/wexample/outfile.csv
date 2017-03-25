@@ -1,0 +1,190 @@
+
+Options: -E weka.attributeSelection.GainRatioAttributeEval -S "weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N 50" -W weka.classifiers.trees.RandomForest -- -I 15 -K 0 -S 1 
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+
+Attribute Evaluator (supervised, Class (nominal): 1 class):
+	Gain Ratio feature evaluator
+
+Ranked attributes:
+ 0.1016     1673 attr1672
+ 0.1001     1649 attr1648
+ 0.0993     1383 attr1382
+ 0.0966     1672 attr1671
+ 0.0795     1655 attr1654
+ 0.0762     1606 attr1605
+ 0.0731     2218 attr2217
+ 0.0725     1610 attr1609
+ 0.0709     2216 attr2215
+ 0.0703     2451 attr2450
+ 0.068       384 attr383
+ 0.0673      392 attr391
+ 0.0673      393 attr392
+ 0.0666     2387 attr2386
+ 0.0666     1394 attr1393
+ 0.0664     1188 attr1187
+ 0.0664      663 attr662
+ 0.0661     2231 attr2230
+ 0.0661     1820 attr1819
+ 0.066      1626 attr1625
+ 0.0655     1376 attr1375
+ 0.0653      627 attr626
+ 0.0649     2187 attr2186
+ 0.0648      219 attr218
+ 0.0643      657 attr656
+ 0.0639     1668 attr1667
+ 0.0636      977 attr976
+ 0.0631     1395 attr1394
+ 0.0625     1403 attr1402
+ 0.0621     1406 attr1405
+ 0.062      2127 attr2126
+ 0.062      1590 attr1589
+ 0.0618     1641 attr1640
+ 0.0614      218 attr217
+ 0.0612     2213 attr2212
+ 0.0612     1607 attr1606
+ 0.0612     1605 attr1604
+ 0.061      1312 attr1311
+ 0.0609     1407 attr1406
+ 0.0608      972 attr971
+ 0.0604     2119 attr2118
+ 0.0598     1596 attr1595
+ 0.0597     2116 attr2115
+ 0.0591     1689 attr1688
+ 0.0589     2407 attr2406
+ 0.0581     1608 attr1607
+ 0.0578     2219 attr2218
+ 0.0574     2235 attr2234
+ 0.0569      444 attr443
+ 0.0568     1372 attr1371
+
+Selected attributes: 1673,1649,1383,1672,1655,1606,2218,1610,2216,2451,384,392,393,2387,1394,1188,663,2231,1820,1626,1376,627,2187,219,657,1668,977,1395,1403,1406,2127,1590,1641,218,2213,1607,1605,1312,1407,972,2119,1596,2116,1689,2407,1608,2219,2235,444,1372 : 50
+
+
+Header of reduced data:
+@relation 'TrainMatrixB-weka.filters.unsupervised.attribute.Remove-V-R1673,1649,1383,1672,1655,1606,2218,1610,2216,2451,384,392-393,2387,1394,1188,663,2231,1820,1626,1376,627,2187,219,657,1668,977,1395,1403,1406,2127,1590,1641,218,2213,1607,1605,1312,1407,972,2119,1596,2116,1689,2407,1608,2219,2235,444,1372,1'
+
+@attribute attr1672 {0,1}
+@attribute attr1648 {0,1}
+@attribute attr1382 {0,1}
+@attribute attr1671 {0,1}
+@attribute attr1654 {0,1}
+@attribute attr1605 {0,1}
+@attribute attr2217 {0,1}
+@attribute attr1609 {0,1}
+@attribute attr2215 {0,1}
+@attribute attr2450 {0,1}
+@attribute attr383 {0,1}
+@attribute attr391 {0,1}
+@attribute attr392 {0,1}
+@attribute attr2386 {0,1}
+@attribute attr1393 {0,1}
+@attribute attr1187 {0,1}
+@attribute attr662 {0,1}
+@attribute attr2230 {0,1}
+@attribute attr1819 {0,1}
+@attribute attr1625 {0,1}
+@attribute attr1375 {0,1}
+@attribute attr626 {0,1}
+@attribute attr2186 {0,1}
+@attribute attr218 {0,1}
+@attribute attr656 {0,1}
+@attribute attr1667 {0,1}
+@attribute attr976 {0,1}
+@attribute attr1394 {0,1}
+@attribute attr1402 {0,1}
+@attribute attr1405 {0,1}
+@attribute attr2126 {0,1}
+@attribute attr1589 {0,1}
+@attribute attr1640 {0,1}
+@attribute attr217 {0,1}
+@attribute attr2212 {0,1}
+@attribute attr1606 {0,1}
+@attribute attr1604 {0,1}
+@attribute attr1311 {0,1}
+@attribute attr1406 {0,1}
+@attribute attr971 {0,1}
+@attribute attr2118 {0,1}
+@attribute attr1595 {0,1}
+@attribute attr2115 {0,1}
+@attribute attr1688 {0,1}
+@attribute attr2406 {0,1}
+@attribute attr1607 {0,1}
+@attribute attr2218 {0,1}
+@attribute attr2234 {0,1}
+@attribute attr443 {0,1}
+@attribute attr1371 {0,1}
+@attribute class {0,1}
+
+@data
+
+
+Classifier Model
+Random forest of 15 trees, each constructed while considering 6 random features.
+Out of bag error: 0.0292
+
+
+
+Time taken to build model: 1.13 seconds
+Time taken to test model on training data: 0.03 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         430               96.6292 %
+Incorrectly Classified Instances        15                3.3708 %
+Kappa statistic                          0.93  
+Mean absolute error                      0.1039
+Root mean squared error                  0.1787
+Relative absolute error                 21.4831 %
+Root relative squared error             36.3502 %
+Total Number of Instances              445     
+
+
+=== Detailed Accuracy By Class ===
+
+TP Rate   FP Rate   Precision   Recall  F-Measure   Class
+  0.945     0.019      0.972     0.945     0.958    0
+  0.981     0.055      0.963     0.981     0.972    1
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 172  10 |   a = 0
+   5 258 |   b = 1
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         332               74.6067 %
+Incorrectly Classified Instances       113               25.3933 %
+Kappa statistic                          0.4634
+Mean absolute error                      0.3193
+Root mean squared error                  0.416 
+Relative absolute error                 66.041  %
+Root relative squared error             84.6187 %
+Total Number of Instances              445     
+
+
+=== Detailed Accuracy By Class ===
+
+TP Rate   FP Rate   Precision   Recall  F-Measure   Class
+  0.621     0.167      0.72      0.621     0.667    0
+  0.833     0.379      0.76      0.833     0.795    1
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 113  69 |   a = 0
+  44 219 |   b = 1
+
+

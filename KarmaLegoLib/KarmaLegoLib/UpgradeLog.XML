@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KarmaLegoLib">
+</Property><Property Name="Solution File" Value="D:\KarmaLegoBook\OgelAmrak-AmrakLego-KarmaOgel\KarmaLegoLib\KarmaLegoLib\KarmaLegoLib.sln">
+</Property><Property Name="Date" Value="יום שני 01 יולי 2013">
+</Property><Property Name="Time" Value="23:28">
+</Property></Properties><Event ErrorLevel="0" Project="KarmaLegoLib" Source="KarmaLegoLib\KarmaLegoLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="KarmaLegoLib" Source="KarmaLegoLib\KarmaLegoLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Tonception" Source="..\Tonception\Tonception.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Tonception" Source="..\Tonception\Tonception.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClassificationLib" Source="..\ClassificationLib\ClassificationLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClassificationLib" Source="..\ClassificationLib\ClassificationLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DiscoStation" Source="..\DiscoStation\DiscoStation\DiscoStation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DiscoStation" Source="..\DiscoStation\DiscoStation\DiscoStation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KarmaLegoLib.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="KarmaLegoLib.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KarmaLegoLib" Source="KarmaLegoLib\KarmaLegoLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Tonception" Source="..\Tonception\Tonception.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ClassificationLib" Source="..\ClassificationLib\ClassificationLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DiscoStation" Source="..\DiscoStation\DiscoStation\DiscoStation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
